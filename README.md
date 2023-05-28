@@ -21,6 +21,5 @@ Acesse a pasta do repositório e instale as dependências com ```npm i```
 
 Para rodar o projeto, execute ```npm run start```
 
-## Autores
-
-- [Danilo Samways](https://www.github.com/DaniloSamways)
+## Autor
+ViniAS5
