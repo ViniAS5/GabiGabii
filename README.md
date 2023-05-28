@@ -11,7 +11,7 @@
 
 ## Demonstração
 
-https://https://chatinhadovini.vercel.app/
+https://chatinhadovini.vercel.app/
 
 ## Instalação
 
