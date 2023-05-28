@@ -15,7 +15,7 @@ https://chatinhadovini.vercel.app/
 
 ## Instalação
 
-Clone o repositório com ```git clone https://github.com/DaniloSamways/ForBell```
+Clone o repositório com ```git clone https://github.com/ViniAS5/GabiGabii
 
 Acesse a pasta do repositório e instale as dependências com ```npm i```
 
